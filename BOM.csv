@@ -1,0 +1,13 @@
+Item,Price(USD),Description, purchase links
+1uF,,"C1,C2,C3,C4,C5,C7,C8,C12 in the PCB",https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_Samsung-Electro-Mechanics-CL10A105KB8NNNC_C15849.html
+100nF,,"C6,C9,C13 in the PCB",https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_YAGEO-CC0603KRX7R9BB104_C14663.html
+5.1K,,"R1,R2,R3,R4,R5,R6,R7,R8,R9,R10 in the PCB",http://lcsc.com/product-detail/Chip-Resistor---Surface-Mount_UNI-ROYAL-0603WAF5101T5E_C23186.html
+140K,,"R11,R12,R14 in the PCB",https://www.lcsc.com/product-detail/Chip-Resistor---Surface-Mount_YAGEO-RC0603FR-07140KL_C185372.html
+SL2.1s,,The chip ,https://www.lcsc.com/product-detail/USB-HUB-Controllers_CoreChips-SL2-1s_C2684433.html
+"	
+10K",,"R13,R15 in the PCB",https://www.lcsc.com/product-detail/Chip-Resistor---Surface-Mount_UNI-ROYAL-0603WAF1002T5E_C25804.html
+TYPE-C16PIN2MD(073),,"USB1_DOWNSTREAM,USB2_DOWNSTREAM,USB3_DOWNSTREAM,USB4_DOWNSTREAM,USB_UPSTREAM",https://www.lcsc.com/product-detail/USB-Connectors_SHOU-HAN-TYPE-C-16PIN-2MD-073-_C2765186.html
+JLCPCB,24.70$,PCB printing,…
+"BLUE,GREEN,RED,WHITE,YELLOW (5 leds)",0.1,,https://mostelectronic.com/shop/displays-lcd-7-seg-led/leds-displays-lcd-7-seg-led/led-green-color-3mm/
+printify3d,19.15,3d printing ,…
+Total,43.85,..,..
