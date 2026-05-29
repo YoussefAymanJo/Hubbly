@@ -16,8 +16,8 @@ I routed each component on the PCB.
 <img width="614" height="619" alt="Screenshot 2026-05-29 161525" src="https://github.com/user-attachments/assets/9b9d1fec-8c4f-413a-b7a5-468950df8b85" />
 <img width="945" height="596" alt="Screenshot 2026-05-29 161444" src="https://github.com/user-attachments/assets/3d351bd5-0c85-455e-b3ef-8ff512a58031" />
 
-## BOM
-| Item | Reference | Price (USD) | Description | purchase |
+## BOM (Bill of Materials)
+| Item | Reference | Price (USD) | Description | purchase links |
 |------|------------|-------------|-------------|----------|
 | 1uF | C1, C2, C3, C4, C5, C7, C8, C12 |  | Capacitors in the PCB | [Link](https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_Samsung-Electro-Mechanics-CL10A105KB8NNNC_C15849.html) |
 | 100nF | C6, C9, C13 |  | Capacitors in the PCB | [Link](https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_YAGEO-CC0603KRX7R9BB104_C14663.html) |
