@@ -5,4 +5,6 @@ a USB Hub that extends one Type C port to 4 Type C ports with LEDs indicating wh
 * Extend up to 4 ports
 * LEDs indicate which port is connected
 * Cool images on PCB
-##
+## Schematic
+I used EasyEDA to wire everything in the schematic. wired some LEDs to each port.
+[Alt Text](image_path)
