@@ -31,6 +31,10 @@ I routed each component on the PCB.
 | printify3d          | Enclosure                                                  | 19.15       | 3D printing                         | N/A |
 <img width="321" height="313" alt="image" src="https://github.com/user-attachments/assets/cb2acea7-ca7d-4de5-8e3c-d0010c9278a6" />
 <img width="1869" height="639" alt="Screenshot 2026-05-29 181718" src="https://github.com/user-attachments/assets/c83f15f2-b8df-43ca-a0f6-139c9d79a9b9" />
+and this link too :
+
+https://docs.google.com/spreadsheets/d/1Cg5gOcqFyrotfYvgN05tP1oPqqMmMQ4XlvK3fBSY4UE/edit?usp=sharing
+
 
 ## KINE
 <img width="496" height="706" alt="Screenshot 2026-05-29 212251" src="https://github.com/user-attachments/assets/3965ccb9-0be3-4b1a-bb0e-5481114984f4" />
